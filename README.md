@@ -29,7 +29,7 @@
 
 > ### Let's Get In Touch
 <p align="center">
-  <a href="fontalsantiago@gmail.com">
+  <a href="mailto:fontalsantiago@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/santiago-fontal/">
